@@ -45,6 +45,7 @@ const NavBar = () => {
           career in the dynamic world of logistics
         </p>
         <button className=" btn btn--apply"> Apply </button>
+        <image src="https://d2uhsaoc6ysewq.cloudfront.net/57185/Refrigerated-Trailers-Great-Dane-53FT-REEFER---FLAT-FLOOR--EXCELLENT-SHAPE-32889790.jpg" />
       </section>
     </div>
   );
