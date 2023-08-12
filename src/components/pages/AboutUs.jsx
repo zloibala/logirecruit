@@ -28,13 +28,33 @@ const AboutUs = () => {
       </section>
       <section className="why-us">
         <h3> Why Us?</h3>
-        <h4> Career De</h4>
-        <p>
-          Beyond just job placements, your agency offers resources and support
-          for drivers' career growth. This could include training,
-          certifications, and guidance for advancement within the logistics
-          field.
-        </p>
+        <div className="why--us--parts">
+          <h4> Career Development:</h4>
+          <p>
+            Beyond just job placements, your agency offers resources and support
+            for drivers' career growth. This could include training,
+            certifications, and guidance for advancement within the logistics
+            field.
+          </p>
+          <h4> Long-Term Relationships:</h4>
+          <p>
+            Your agency aims to build lasting relationships with drivers,
+            assisting them not only in finding their next job but also
+            throughout their entire career journey.
+          </p>
+          <h4> Quality Opportunities:</h4>
+          <p>
+            You focus on connecting drivers with reputable logistics companies
+            that offer safe working conditions, competitive pay, and
+            opportunities for advancement.
+          </p>
+          <h4>Vast Network: </h4>
+          <p>
+            Your extensive network of logistics companies and employers means
+            that drivers have access to a wide range of job openings and
+            potential employers.
+          </p>
+        </div>
       </section>
     </div>
   );

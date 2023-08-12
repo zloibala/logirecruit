@@ -2,7 +2,7 @@ import React from "react";
 
 const BecomeDriver = () => {
   return (
-    <div>
+    <div className="become--driver--section">
       <h1>Looking For a Company?</h1>
       <h5> Start with us, and you’ll never regret.</h5>
       <p>
